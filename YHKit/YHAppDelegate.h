@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  YHAppDelegate.h
 //  YHKit
 //
 //  Created by yanghengzhan on 16/10/8.
@@ -8,7 +8,9 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface YHAppDelegate : UIResponder <UIApplicationDelegate>
+
+@property (strong, nonatomic) UIWindow *window;
 
 
 @end

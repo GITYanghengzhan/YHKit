@@ -1,18 +1,18 @@
 //
-//  AppDelegate.m
+//  YHAppDelegate.m
 //  YHKit
 //
 //  Created by yanghengzhan on 16/10/8.
 //  Copyright © 2016年 yanghengzhan. All rights reserved.
 //
 
-#import "AppDelegate.h"
+#import "YHAppDelegate.h"
 
-@interface AppDelegate ()
+@interface YHAppDelegate ()
 
 @end
 
-@implementation AppDelegate
+@implementation YHAppDelegate
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
